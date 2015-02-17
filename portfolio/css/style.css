@@ -1,0 +1,11 @@
+﻿body {
+	background-color: #006B24;
+	color: #E8F6ED;
+
+	font-family: verdana;
+}
+
+.container a {
+	color: #99D6AD;
+	font-weight: bold;
+}

@@ -1,0 +1,63 @@
+body {
+	background-color: #293D3D;
+	color: #EAECEC;
+	font-size: 1.6em;
+	font-family: "sans-serif";
+}
+
+.smallerWidth {
+	width: 50%;
+	margin: 0 auto;
+}
+
+.smallerWidth dt {
+	width: auto;
+}
+
+img.myPhoto {
+	box-shadow: 4px 4px 2px #EAECEC;
+	opacity: 0.9;
+	margin-top:5px;
+}
+div.backgroundClr {
+	background-color: #293D3D;
+
+}
+.padding {    /* heading in collapse */
+	font-size: 1.6em;
+	text-shadow: 4px 4px 2px #A5A5AB;
+}
+h1.text-shadow {
+	font-weight: bold;
+	text-shadow: 2px 2px 2px #EAECEC;
+	font-style: italic;
+
+}
+small.cv {
+	text-shadow: 2px 2px 2px #EAECEC;
+	font-style: italic;
+
+}
+div.marginMainContent {
+	margin-bottom: 40px;
+}
+div.panel-body.text-center h4 {
+	padding-bottom: 10px;
+}
+@font-face {
+	font-family: billabong;
+	src: url(../fonts/billabong.ttf);
+	
+}
+a.billabong-font {
+	font-family: billabong;
+	font-style: italic;
+	font-size: 2.5em;
+	font-weight: bold;
+}
+
+p.billabong-footer {
+	font-family: billabong;
+	font-style: italic;
+	font-size: 1.1em;
+}
